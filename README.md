@@ -16,7 +16,7 @@ We used StatsSA's Q4 2024 unemployment data, focusing on three age groups:
 | All Ages      | 31.9                   |
 
 ## Key Visualization
-![Unemployment Rates Chart](visuals/unemployment_rates_chart.png)
+![Unemployment Rates Chart]https://docs.google.com/spreadsheets/d/1RYXlGhzjr54KFbYA5kmuclfyb4X_R6sYGP-JHcwkaFU/edit?usp=sharing
 
 > “Unemployment among youth aged 15–24 is nearly double the national average.”
 
